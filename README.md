@@ -1,6 +1,7 @@
 # TMC2130 SPI Breakout PCB
 
 It's a simple SPI breakout PCB with all the individual CS pins on a header. I made it because I was fed up with my dead bug soldering jobs and decided to make my first fabbed PCB! No ground fill, nothing fancy, just a plain 2-layer board.
+
 This final version has correct pin spacing for accomodating bulkier 4-pin fan connectors, but works perfectly with any 0.1" pitch connectors. Grab yourself an F-F cable, either make it or buy it, and solder male headers to both your TMC2130s and this PCB.
 
 [![OSHPark](https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png)](https://oshpark.com/shared_projects/pDBLKhOS)
